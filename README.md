@@ -5,4 +5,5 @@ protein sequence.
 Program coded in Python3
 Date of creation: 2-4-2019
 Update date: 5-8-2019
+In-Class exercise
 
